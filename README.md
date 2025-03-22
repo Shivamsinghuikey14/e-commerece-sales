@@ -18,3 +18,10 @@ I have utilized following items in building sales dashboard which analyzes produ
 
 # Dashboard
 ![Ecommerce-Store-Data-Analysis-dashboard](https://user-images.githubusercontent.com/60383145/222998126-5185133f-6f7b-4bda-bb44-494a7585c734.jpg)
+
+
+Made By Shivam singh uikey 
+Skills Used: Power BI | DAX | Data Analysis | Data Visualization
+Tools Used: Power BI, Excel, SQL
+Objective: Designed to help tourism businesses optimize visitor revenue strategies.
+Connect-uikeyshivamsingh14.02@gmail.com
