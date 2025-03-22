@@ -21,7 +21,7 @@ I have utilized following items in building sales dashboard which analyzes produ
 
 
 Made By Shivam singh uikey 
-Skills Used: Power BI | DAX | Data Analysis | Data Visualization
-Tools Used: Power BI, Excel, SQL
+Skills Used:  Data Analysis | Data Visualization
+Tools Used: Excel, SQL
 Objective: Designed to help tourism businesses optimize visitor revenue strategies.
 Connect-uikeyshivamsingh14.02@gmail.com
